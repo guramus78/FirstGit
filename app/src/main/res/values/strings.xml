@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Change365</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">건강</string>
+    <string name="tab_text_2">능력</string>
+    <string name="title_activity_change365__main_tab">Change365_MainTabActivity</string>
+</resources>

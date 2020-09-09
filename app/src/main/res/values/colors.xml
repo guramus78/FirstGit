@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="change365_Opening_background_color">#87F5F5</color>
+    <color name="change365_Opening_text_color">#0000CD</color>
+    <color name="change365_Main_background_color">#FFFFFF</color>
+    <color name="change365_Main_text_color">#000000</color>
+</resources>
